@@ -118,7 +118,7 @@ body {
 
 /* estilos de la tabla */
 .tabla {
-    color: brown;
+    color: white;
     font-size: 0.6rem;
     position: sticky;
     display: flex;
