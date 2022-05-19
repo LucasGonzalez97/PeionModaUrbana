@@ -230,7 +230,6 @@ footer {
         height: 600px;
         display: flex;
         justify-content: center;
-        background-color: red;
     }
 
     .hijilo img {
@@ -240,6 +239,10 @@ footer {
     .hijito {
         display: flex;
         height: 220px;
+        
+    }
+    .hijito img{
+        justify-content: flex-end;
     }
 
     /* estilos de la tabla */
